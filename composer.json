@@ -1,6 +1,6 @@
 {
-    "name": "specbee/drupal-recommended-starterkit",
-    "description": "Project template for Drupal projects with a relocated document root",
+    "name": "specbee/drupal-fe-assessment",
+    "description": "An assessment project for Drupal Frontend",
     "license": "GPL-2.0-or-later",
     "type": "project",
     "authors": [
