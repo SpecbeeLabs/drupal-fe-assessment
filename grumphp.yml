@@ -53,6 +53,7 @@ grumphp:
         - vendor
         - scripts
         - drush
+        - README.md
       triggered_by:
         - php
         - module
